@@ -9,4 +9,4 @@ respectivos valores de dados, o botão "confirma" faz o cálculo e mostra o resu
 <hr>
 🚀
 </div>
-Neste exercício básico criei uma calculadora IMC com JS, HTML5 e CSS.
+
